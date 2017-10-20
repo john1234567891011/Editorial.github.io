@@ -18,8 +18,12 @@ The final act that people have criticized is the Privacy act. Donald Trump defin
       <h2 class="title">Work Cited</h2>
       <p>
         IMMIGRATION AND NATIONALITY ACT | USCIS, www.uscis.gov/ilink/docView/SLB/HTML/SLB/act.html.
-Nicholas Kulish, Vivian Yee, Caitlin Dickerson, Liz Robbins, Fernanda Santos And Jennifer Medina. Trumps Immigration Policies Explained. The New York Times, The New York Times, 2017, www.nytimes.com/2017/02/21/us/trump-immigration-policies-deportation.html.
-Villavicencio, Karla Cornejo. The Psychic Toll of Trumps DACA Decision. The New York Times, The New York Times, Aug. 2017, www.nytimes.com/2017/09/08/opinion/sunday/mental-health-daca.html?rref=collection/timestopic/Immigration and Customs Enforcement, U.S.
+Nicholas Kulish, Vivian Yee, Caitlin Dickerson, Liz Robbins, Fernanda Santos And Jennifer Medina. Trumps Immigration Policies Explained.
+	      
+	     The New York Times, The New York Times, 2017, www.nytimes.com/2017/02/21/us/trump-immigration-policies-deportation.html
+Villavicencio, Karla Cornejo. The Psychic Toll of Trumps DACA Decision. 
+
+	The New York Times, The New York Times, Aug. 2017,www.nytimes.com/2017/09/08/opinion/sunday/mental-health-daca.html?rref=collection/timestopic/Immigration and Customs Enforcement, U.S.
       </p>
     </header>
   </body>
